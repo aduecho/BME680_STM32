@@ -1,0 +1,2 @@
+the MCU board is blue pill, and using SPI1 connect to BME680, PB0 configed as interuppt pin, active low, used to simulate the ULP+ mode.
+the BME config as ULP mode.
